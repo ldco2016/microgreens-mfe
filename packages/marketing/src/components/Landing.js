@@ -117,18 +117,18 @@ export default function Album() {
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.cardMedia}
-                  image="/assets/pea-shoots.jpg"
+                  image='https://user-images.githubusercontent.com/13081018/106391016-d8586e00-63b0-11eb-99a2-a617d2d5053e.jpg'
                 />
                 <CardContent className={classes.cardContent}>
-                  <Typography gutterBottom variant="h5" component="h2">
+                  <Typography gutterBottom variant='h5' component='h2'>
                     Healthy
                   </Typography>
                   <Typography>
-                    Packed with concentrated nutrients, vitmains, minerals,
-                    and enzymes - living foods are among the healthiest foods
-                    on the planet. Microgreens, sprouts, and grasses are simply
-                    young seeds and legumes that are utilized at their most
-                    nutritious and delicious state.
+                    Packed with concentrated nutrients, vitmains, minerals, and
+                    enzymes - living foods are among the healthiest foods on the
+                    planet. Microgreens, sprouts, and grasses are simply young
+                    seeds and legumes that are utilized at their most nutritious
+                    and delicious state.
                   </Typography>
                 </CardContent>
               </Card>
@@ -137,19 +137,18 @@ export default function Album() {
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.cardMedia}
-                  image="/assets/sandwich.jpg"
+                  image='/assets/sandwich.jpg'
                 />
                 <CardContent className={classes.cardContent}>
-                  <Typography gutterBottom variant="h5" component="h2">
+                  <Typography gutterBottom variant='h5' component='h2'>
                     Easy to Use
                   </Typography>
                   <Typography>
-                    Implement living foods into your current diet to
-                    increase the nutrient content of your meals and 
-                    improve overall health. Use in salads, sandwiches,
-                    and wraps. Add to cooked meals once removed from heat
-                    such as stir-frys and soups. Or simply enoy as a snack
-                    or a living food salad mix!
+                    Implement living foods into your current diet to increase
+                    the nutrient content of your meals and improve overall
+                    health. Use in salads, sandwiches, and wraps. Add to cooked
+                    meals once removed from heat such as stir-frys and soups. Or
+                    simply enoy as a snack or a living food salad mix!
                   </Typography>
                 </CardContent>
               </Card>
@@ -158,20 +157,20 @@ export default function Album() {
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.cardMedia}
-                  image="/assets/microgreen_shelves.jpg"
+                  image='/assets/microgreen_shelves.jpg'
                 />
                 <CardContent className={classes.cardContent}>
-                  <Typography gutterBottom variant="h5" component="h2">
+                  <Typography gutterBottom variant='h5' component='h2'>
                     Sustainable
                   </Typography>
                   <Typography>
                     Living foods are grown more sustainably compared to
-                    conventional agricultural practices. They use less
-                    water, need no fertilizer or pesticides and use less
-                    land via vertical farming. Our growing trays are reused
-                    and our growing medium is composted. Locally grown food
-                    results in less pollution from transportation and a more
-                    sustainable community.
+                    conventional agricultural practices. They use less water,
+                    need no fertilizer or pesticides and use less land via
+                    vertical farming. Our growing trays are reused and our
+                    growing medium is composted. Locally grown food results in
+                    less pollution from transportation and a more sustainable
+                    community.
                   </Typography>
                 </CardContent>
               </Card>
@@ -180,18 +179,18 @@ export default function Album() {
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.cardMedia}
-                  image="/assets/fresh_cut_microgreens.jpg"
+                  image='/assets/fresh_cut_microgreens.jpg'
                 />
                 <CardContent className={classes.cardContent}>
-                  <Typography gutterBottom variant="h5" component="h2">
+                  <Typography gutterBottom variant='h5' component='h2'>
                     Exceptionally Fresh
                   </Typography>
                   <Typography>
                     Living foods are inherently fresh because they are still
                     living. Since our produce is harvested within 24 hours of
                     delivery, you enjoy the benefits of superior quality,
-                    enhanced shelf-life and no more slimy rotten produce.
-                    You simply cannot obtain these foods in supermarkets.
+                    enhanced shelf-life and no more slimy rotten produce. You
+                    simply cannot obtain these foods in supermarkets.
                   </Typography>
                 </CardContent>
               </Card>
