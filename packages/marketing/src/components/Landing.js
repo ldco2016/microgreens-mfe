@@ -137,7 +137,7 @@ export default function Album() {
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.cardMedia}
-                  image='/assets/sandwich.jpg'
+                  image='https://user-images.githubusercontent.com/13081018/106395474-0f864980-63c8-11eb-8b1a-e67cfbe4f313.jpg'
                 />
                 <CardContent className={classes.cardContent}>
                   <Typography gutterBottom variant='h5' component='h2'>
@@ -157,7 +157,7 @@ export default function Album() {
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.cardMedia}
-                  image='/assets/microgreen_shelves.jpg'
+                  image='https://user-images.githubusercontent.com/13081018/106395500-2cbb1800-63c8-11eb-949d-ce12bb553d98.jpg'
                 />
                 <CardContent className={classes.cardContent}>
                   <Typography gutterBottom variant='h5' component='h2'>
@@ -179,7 +179,7 @@ export default function Album() {
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.cardMedia}
-                  image='/assets/fresh_cut_microgreens.jpg'
+                  image='https://user-images.githubusercontent.com/13081018/106395526-45c3c900-63c8-11eb-8754-beaba5a3f0dd.jpg'
                 />
                 <CardContent className={classes.cardContent}>
                   <Typography gutterBottom variant='h5' component='h2'>
