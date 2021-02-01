@@ -57,7 +57,7 @@ export default function Header({signedIn, onSignOut}) {
             component={RouterLink}
             to="/"
           >
-            Microurb Farms
+            Microurb
           </Typography>
           <Button
             color="primary"
