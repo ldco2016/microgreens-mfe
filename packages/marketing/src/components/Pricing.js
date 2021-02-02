@@ -164,7 +164,7 @@ export default function Pricing() {
                       ${tier.price}
                     </Typography>
                     <Typography variant='h6' color='textSecondary'>
-                      /mo
+                      /each
                     </Typography>
                   </div>
                   <ul>
