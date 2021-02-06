@@ -46,7 +46,7 @@ export default function Dashboard() {
               color='textPrimary'
               gutterBottom
             >
-              Dashboard
+              Welcome to the Dashboard
             </Typography>
             <Typography
               variant='h5'
