@@ -56,7 +56,8 @@ export default function Signup({ onSignIn }) {
           <LockOutlinedIcon />
         </Avatar>
         <Typography component='h1' variant='h5'>
-          Sign up
+          Do not provide your credentials. You can simply click the Sign up
+          button to see our future dashboard
         </Typography>
         <form
           onSubmit={(e) => e.preventDefault()}
